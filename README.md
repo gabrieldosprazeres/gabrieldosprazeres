@@ -12,7 +12,7 @@
 
 <h2>✨ Sobre</h2>
 <p>Apaixonado pela área da computação desde criança, após uma fase trabalhando na indústria de alimentos, comecei meu caminho na programação. Em constante desenvolvimento e aperfeiçoamento não só das tecnologias que conheço, mas busco sempre estudar algo novo que possa agregar na minha formação.</p>
-<p>Estudando no momento: Python (Flask, Django e MongoDB)</p>
+<p>Estudando no momento: Python (Flask, Django, MongoDB, PostgreSQL, SQLAlchemy)</p>
 
 ----
 
