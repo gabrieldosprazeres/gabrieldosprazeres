@@ -3,7 +3,7 @@
 # Gabriel dos Prazeres
 
 <h2>📝 Formação</h2>
-<h3>Desenvolvedor Front End</h3>
+<h3>Desenvolvedor Back End</h3>
 <h4>Instituição: Kenzie Academy Brasil</h4>
 
 <p>Curso de 2.000 horas de Desenvolvimento Full Stack que abrange tecnologias Front End e Back End além de soft skills necessárias para o mercado de trabalho. Entre as linguagens e tecnologias aprendidas, estão HTML5, CCS3, JavaScript (ES6+), ReactJS, Node.JS, Python (Django, MongoDB e Flask) e SQL.</p>
