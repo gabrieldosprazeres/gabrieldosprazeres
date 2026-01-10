@@ -1,61 +1,90 @@
+# Olá, sou o Gabriel dos Prazeres! 👋
 
+### Full Stack Developer | Python & Data Enthusiast | AI Automation
 
-# Gabriel dos Prazeres
+Sou um desenvolvedor com **mais de 4 anos de experiência**, focado em construir aplicações funcionais e automatizar processos. Atuo na ponte entre **Desenvolvimento Web** e **Engenharia de Dados**, sempre buscando unir código limpo com performance.
 
-<h2>📝 Formação</h2>
-<h3>Desenvolvedor Back End</h3>
-<h4>Instituição: Kenzie Academy Brasil</h4>
+Minha trajetória prática inclui desde a criação de sistemas web até a modernização de arquiteturas legadas e construção de pipelines de dados, com passagens por empresas como **Stract** e **HARTB**.
 
-<p>Curso de 2.000 horas de Desenvolvimento Full Stack que abrange tecnologias Front End e Back End além de soft skills necessárias para o mercado de trabalho. Entre as linguagens e tecnologias aprendidas, estão HTML5, CCS3, JavaScript (ES6+), ReactJS, Node.JS, Python (Django, MongoDB e Flask) e SQL.</p>
+---
 
-----
+## 🚀 Projetos e Vivência Profissional
 
-<h2>✨ Sobre</h2>
-<p>Apaixonado pela área da computação desde criança, após uma fase trabalhando na indústria de alimentos, comecei meu caminho na programação. Em constante desenvolvimento e aperfeiçoamento não só das tecnologias que conheço, mas busco sempre estudar algo novo que possa agregar na minha formação.</p>
-<p>Estudando no momento: Python (Flask, Django, MongoDB, PostgreSQL, SQLAlchemy)</p>
+> *Abaixo, alguns destaques técnicos da minha carreira (nomes de projetos proprietários omitidos por confidencialidade).*
 
-----
+### 🏛️ Atual: Plataforma SaaS de Inteligência de Dados
+Desenvolvimento de um sistema B2B para gestão e monitoramento em tempo real.
+- **O Desafio:** Lidar com processamento de dados de redes sociais e automatizar a criação de conteúdo.
+- **Tech Stack:** React, TypeScript, Supabase, N8N (Integração com IA) e APIs REST.
+- **Minha Atuação:** Implementação de regras de segurança (RLS), criação de dashboards interativos e fluxos de automação.
 
-<h2> 📬 Contato </h2>
-<a href="https://www.linkedin.com/in/gabrieldosprazeres/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://wa.me/message/MB5543AQQKPRA1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:gabrieldosprazeres@hotmail.com.br"><img alt="Outlook" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+### 🔄 Migração de Legado (Monolito para Microsserviços)
+Atuação direta na refatoração de sistemas para melhorar a escalabilidade.
+- **O Desafio:** Manter e evoluir um sistema monolito que precisava de mais performance.
+- **A Solução:** Ajudei a separar responsabilidades em serviços menores, implementando **Docker** para padronizar os ambientes.
 
-----
+### 📊 Engenharia de Dados (ETL)
+Experiência prática na coleta e tratamento de dados.
+- **O Desafio:** Centralizar dados dispersos de múltiplas fontes de anúncios.
+- **A Solução:** Construção de scripts e conectores em **Python** para extrair, transformar e salvar dados em bancos relacionais (PostgreSQL) e indexadores de busca (ElasticSearch).
 
-<h2>🏆 Estatísticas</h2>
-<a class="stats" href="https://github.com/gabrieldosprazeres">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieldosprazeres&theme=dracula&show_icons=true" />
-</a> 
+---
 
-----
+## 🛠 Tech Stack
 
-<h2>🛠 Tecnologias e Ferramentas</h2>
+### Backend & Dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="ElasticSearch" height="30" width="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
- </p>
+### Frontend & Modern Web
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+
+### Tools, Cloud & Automação
+<div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
+  <img align="center" alt="N8N" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+
+---
+
+## ⚡ Activity
+
+<div align="center">
+  <a href="https://github.com/gabrieldosprazeres">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrieldosprazeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrieldosprazeres&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrieldosprazeres/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:gabrieldosprazeres@hotmail.com.br">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+   <a href="https://wa.me/5591999999999?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%21">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+</div>
