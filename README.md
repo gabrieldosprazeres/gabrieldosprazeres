@@ -84,7 +84,7 @@ Experiência prática na coleta e tratamento de dados.
   <a href="mailto:gabrieldosprazeres@hotmail.com.br">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-   <a href="https://wa.me/5591999999999?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%21">
+   <a href="https://wa.me/5591991617267?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%21">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 </div>
