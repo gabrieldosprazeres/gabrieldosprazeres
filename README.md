@@ -14,9 +14,9 @@ Minha trajetória prática inclui desde a criação de sistemas web até a moder
 
 ### 🏛️ Atual: Plataforma SaaS de Inteligência de Dados
 Desenvolvimento de um sistema B2B para gestão e monitoramento em tempo real.
-- **O Desafio:** Lidar com processamento de dados de redes sociais e automatizar a criação de conteúdo.
+- **O Desafio:** Lidar com processamento de dados de redes sociais e automatizar a criação de conteúdo e leitura de documentos.
 - **Tech Stack:** React, TypeScript, Supabase, N8N (Integração com IA) e APIs REST.
-- **Minha Atuação:** Implementação de regras de segurança (RLS), criação de dashboards interativos e fluxos de automação.
+- **Minha Atuação:** Implementação de regras de segurança (RLS), fluxos de automação com **Visão Computacional (OCR)** e dashboards interativos.
 
 ### 🔄 Migração de Legado (Monolito para Microsserviços)
 Atuação direta na refatoração de sistemas para melhorar a escalabilidade.
@@ -40,7 +40,6 @@ Experiência prática na coleta e tratamento de dados.
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="ElasticSearch" height="30" width="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 ### Frontend & Modern Web
@@ -58,6 +57,7 @@ Experiência prática na coleta e tratamento de dados.
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
   <img align="center" alt="N8N" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
