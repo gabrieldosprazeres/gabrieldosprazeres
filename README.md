@@ -1,90 +1,54 @@
-# Olá, sou o Gabriel dos Prazeres! 👋
+# Gabriel dos Prazeres
 
-### Full Stack Developer | Python & Data Enthusiast | AI Automation
+**Engenheiro de Software Sênior | Plataformas de IA e Orquestração de Agentes**
 
-Sou um desenvolvedor com **mais de 4 anos de experiência**, focado em construir aplicações funcionais e automatizar processos. Atuo na ponte entre **Desenvolvimento Web** e **Engenharia de Dados**, sempre buscando unir código limpo com performance.
+[English version](./README.en.md) · [LinkedIn](https://www.linkedin.com/in/gabrieldosprazeres/) · [E-mail](mailto:gabrieldosprazeres@hotmail.com.br)
 
-Minha trajetória prática inclui desde a criação de sistemas web até a modernização de arquiteturas legadas e construção de pipelines de dados, com passagens por empresas como **Stract** e **HARTB**.
+Sou engenheiro de software com mais de 5 anos de experiência no desenvolvimento de plataformas web, mobile e desktop. Atualmente, meu foco está em sistemas de inteligência artificial, orquestração de agentes, ferramentas para desenvolvedores e produtos críticos para o negócio.
 
----
+Atuo de ponta a ponta: entendimento do problema, arquitetura, modelagem de dados, implementação, testes, segurança, observabilidade e entrega. Além do desenvolvimento hands-on, participo de entrevistas técnicas, onboarding de desenvolvedores, distribuição de tarefas, definição de padrões e revisão de pull requests.
 
-## 🚀 Projetos e Vivência Profissional
+## Atuação atual
 
-> *Abaixo, alguns destaques técnicos da minha carreira (nomes de projetos proprietários omitidos por confidencialidade).*
+- **Engenharia de software assistida por IA:** fluxos com Claude Code e OpenAI Codex, múltiplos agentes, MCP, busca semântica, contexto persistente e Git worktrees.
+- **Plataformas SaaS e sistemas empresariais:** arquiteturas multi-tenant, autenticação, pagamentos, operações financeiras e logísticas, CRM, suporte e colaboração em tempo real.
+- **Backend e dados:** APIs REST, integrações com serviços externos, ingestão e processamento de dados, PostgreSQL, Supabase, observabilidade e testes automatizados.
+- **Liderança técnica na prática:** apoio a decisões de arquitetura, entrevistas, onboarding, planejamento técnico, acompanhamento de entregas e revisão de código.
 
-### 🏛️ Atual: Plataforma SaaS de Inteligência de Dados
-Desenvolvimento de um sistema B2B para gestão e monitoramento em tempo real.
-- **O Desafio:** Lidar com processamento de dados de redes sociais e automatizar a criação de conteúdo e leitura de documentos.
-- **Tech Stack:** React, TypeScript, Supabase, N8N (Integração com IA) e APIs REST.
-- **Minha Atuação:** Implementação de regras de segurança (RLS), fluxos de automação com **Visão Computacional (OCR)** e dashboards interativos.
+## Trabalho selecionado
 
-### 🔄 Migração de Legado (Monolito para Microsserviços)
-Atuação direta na refatoração de sistemas para melhorar a escalabilidade.
-- **O Desafio:** Manter e evoluir um sistema monolito que precisava de mais performance.
-- **A Solução:** Ajudei a separar responsabilidades em serviços menores, implementando **Docker** para padronizar os ambientes.
+### AI Solution EXP Manager — projeto privado
 
-### 📊 Engenharia de Dados (ETL)
-Experiência prática na coleta e tratamento de dados.
-- **O Desafio:** Centralizar dados dispersos de múltiplas fontes de anúncios.
-- **A Solução:** Construção de scripts e conectores em **Python** para extrair, transformar e salvar dados em bancos relacionais (PostgreSQL) e indexadores de busca (ElasticSearch).
+Plataforma desktop local-first para organizar engenharia de software assistida por agentes. Integra Claude Code e OpenAI Codex em fluxos estruturados com sessões, projetos, branches, Git worktrees, tarefas, contexto persistente, revisão de código, consumo de modelos e coordenação de múltiplos agentes.
 
----
+**Tecnologias:** TypeScript, React, Electron, Node.js, Git worktrees, MCP e integrações com LLMs.
 
-## 🛠 Tech Stack
+### Plataformas empresariais de IA — projetos privados
 
-### Backend & Dados
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="ElasticSearch" height="30" width="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+Arquitetura e desenvolvimento de plataformas SaaS multi-tenant que combinam ingestão de dados, análise por IA, agentes especializados, memória contextual, processamento multimodal e integrações com operações financeiras, logísticas e de atendimento.
 
-### Frontend & Modern Web
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
+**Tecnologias:** TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, Python, FastAPI, embeddings e busca semântica.
 
-### Tools, Cloud & Automação
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
-  <img align="center" alt="N8N" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
-  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+### Integrações e processamento de dados
 
----
+Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e publicidade, com tratamento de falhas, consistência de dados, investigação de mudanças em APIs externas e manutenção de pipelines críticos.
 
-## ⚡ Activity
+**Tecnologias:** Python, APIs REST, PostgreSQL, Elasticsearch, testes automatizados e observabilidade.
 
-<div align="center">
-  <a href="https://github.com/gabrieldosprazeres">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrieldosprazeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrieldosprazeres&layout=compact&theme=dracula"/>
-  </a>
-</div>
+## Principais tecnologias
 
----
+- **Aplicações:** TypeScript, React, Next.js, Node.js e Electron
+- **IA e backend:** LLMs, OpenAI, MCP, embeddings, Python, FastAPI e APIs REST
+- **Dados e infraestrutura:** PostgreSQL, Supabase, Prisma, Docker, Git worktrees e CI/CD
 
-## 📬 Contato
+## Repositórios públicos
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabrieldosprazeres/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:gabrieldosprazeres@hotmail.com.br">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-   <a href="https://wa.me/5591991617267?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%21">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-</div>
+- [FinanceAI](https://github.com/gabrieldosprazeres/FinanceAI) — SaaS de gestão financeira com dashboard, assinaturas e relatórios personalizados por IA.
+- [ROAutomationToolkit](https://github.com/gabrieldosprazeres/ROAutomationToolkit) — toolkit em C# para automação de rotinas e experimentação técnica.
+- [E-Plus](https://github.com/gabrieldosprazeres/e-plus) — API em Python para gestão de consumo de energia elétrica.
+
+> Parte relevante do meu trabalho atual está em repositórios privados. As descrições acima preservam informações de clientes e detalhes proprietários.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/gabrieldosprazeres/) · [gabrieldosprazeres@hotmail.com.br](mailto:gabrieldosprazeres@hotmail.com.br)
