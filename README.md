@@ -47,7 +47,7 @@ Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Aplicações:** TypeScript, React, Next.js, Node.js e Electron
-- **IA e backend:** LLMs, OpenAI, MCP, embeddings, Python, FastAPI e APIs REST
+- **IA e backend:** LLMs, OpenAI/Codex, Anthropic/Claude Code, MCP, embeddings, Python, FastAPI e APIs REST
 - **Dados e infraestrutura:** PostgreSQL, Supabase, Prisma, Docker, Git worktrees e CI/CD
 
 ## Repositórios públicos
@@ -60,4 +60,4 @@ Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/gabrieldosprazeres/) · [gabrieldosprazeres@hotmail.com.br](mailto:gabrieldosprazeres@hotmail.com.br)
+[LinkedIn](https://www.linkedin.com/in/gabrieldosprazeres/) · [E-mail](mailto:gabrieldosprazeres@hotmail.com.br) · [WhatsApp Business](https://wa.me/5591991617267)
