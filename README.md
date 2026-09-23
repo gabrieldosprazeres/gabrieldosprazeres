@@ -15,7 +15,7 @@ Atuo de ponta a ponta: entendimento do problema, arquitetura, modelagem de dados
 - **Backend e dados:** APIs REST, integrações com serviços externos, ingestão e processamento de dados, PostgreSQL, Supabase, observabilidade e testes automatizados.
 - **Liderança técnica na prática:** apoio a decisões de arquitetura, entrevistas, onboarding, planejamento técnico, acompanhamento de entregas e revisão de código.
 
-## Trabalho selecionado
+## Projetos e atuações em destaque
 
 ### AI Solution EXP Manager — projeto privado
 
@@ -36,6 +36,15 @@ Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e
 **Tecnologias:** Python, APIs REST, PostgreSQL, Elasticsearch, testes automatizados e observabilidade.
 
 ## Principais tecnologias
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Aplicações:** TypeScript, React, Next.js, Node.js e Electron
 - **IA e backend:** LLMs, OpenAI, MCP, embeddings, Python, FastAPI e APIs REST

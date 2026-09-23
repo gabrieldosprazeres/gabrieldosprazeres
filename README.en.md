@@ -1,6 +1,6 @@
 # Gabriel dos Prazeres
 
-**Senior Software Engineer | AI Platforms & Agent Orchestration**
+**Senior Software Engineer | AI Platforms & Agent Orchestration | TypeScript, React, Node.js & Python**
 
 [Versão em português](./README.md) · [LinkedIn](https://www.linkedin.com/in/gabrieldosprazeres/) · [Email](mailto:gabrieldosprazeres@hotmail.com.br)
 
@@ -36,6 +36,15 @@ Development and evolution of connectors for more than 20 marketing and advertisi
 **Technologies:** Python, REST APIs, PostgreSQL, Elasticsearch, automated testing, and observability.
 
 ## Core technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Applications:** TypeScript, React, Next.js, Node.js, and Electron
 - **AI and backend:** LLMs, OpenAI, MCP, embeddings, Python, FastAPI, and REST APIs
