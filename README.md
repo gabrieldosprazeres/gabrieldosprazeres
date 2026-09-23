@@ -1,6 +1,6 @@
 # Gabriel dos Prazeres
 
-**Engenheiro de Software Sênior | Plataformas de IA e Orquestração de Agentes**
+**Senior Software Engineer | AI Platforms & Agent Orchestration | TypeScript, React, Node.js & Python**
 
 [English version](./README.en.md) · [LinkedIn](https://www.linkedin.com/in/gabrieldosprazeres/) · [E-mail](mailto:gabrieldosprazeres@hotmail.com.br)
 
