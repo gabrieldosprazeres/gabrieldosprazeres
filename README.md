@@ -48,7 +48,7 @@ Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e
 
 - **Aplicações:** TypeScript, React, Next.js, Node.js e Electron
 - **IA e backend:** LLMs, OpenAI/Codex, Anthropic/Claude Code, MCP, embeddings, Python, FastAPI e APIs REST
-- **Dados e infraestrutura:** PostgreSQL, Supabase, Prisma, Docker, Git worktrees e CI/CD
+- **Dados e infraestrutura:** PostgreSQL, Supabase, Prisma, Docker, AWS, Git worktrees e CI/CD
 
 ## Repositórios públicos
 
