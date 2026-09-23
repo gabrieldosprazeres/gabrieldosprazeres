@@ -54,7 +54,8 @@ Development and evolution of connectors for more than 20 marketing and advertisi
 
 - [FinanceAI](https://github.com/gabrieldosprazeres/FinanceAI) — personal finance SaaS with dashboards, subscriptions, and AI-generated reports.
 - [ROAutomationToolkit](https://github.com/gabrieldosprazeres/ROAutomationToolkit) — a C# toolkit for workflow automation and technical experimentation.
-- [E-Plus](https://github.com/gabrieldosprazeres/e-plus) — a Python API for electricity consumption management.
+- [pf1-vindication](https://github.com/gabrieldosprazeres/pf1-vindication) — a Foundry VTT module that adds Vindication features to Pathfinder 1e character sheets.
+- [Systems-for-Ragnarok](https://github.com/gabrieldosprazeres/Systems-for-Ragnarok) — a public collection of systems and scripts for Ragnarok Online servers.
 
 > A significant part of my current work is hosted in private repositories. The descriptions above omit client information and proprietary details.
 

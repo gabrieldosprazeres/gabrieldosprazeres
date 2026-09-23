@@ -54,7 +54,8 @@ Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e
 
 - [FinanceAI](https://github.com/gabrieldosprazeres/FinanceAI) — SaaS de gestão financeira com dashboard, assinaturas e relatórios personalizados por IA.
 - [ROAutomationToolkit](https://github.com/gabrieldosprazeres/ROAutomationToolkit) — toolkit em C# para automação de rotinas e experimentação técnica.
-- [E-Plus](https://github.com/gabrieldosprazeres/e-plus) — API em Python para gestão de consumo de energia elétrica.
+- [pf1-vindication](https://github.com/gabrieldosprazeres/pf1-vindication) — módulo para Foundry VTT que adiciona recursos de Vindication às fichas do sistema Pathfinder 1e.
+- [Systems-for-Ragnarok](https://github.com/gabrieldosprazeres/Systems-for-Ragnarok) — coleção pública de sistemas e scripts para servidores Ragnarok Online.
 
 > Parte relevante do meu trabalho atual está em repositórios privados. As descrições acima preservam informações de clientes e detalhes proprietários.
 
