@@ -17,6 +17,16 @@ Atuo de ponta a ponta: entendimento do problema, arquitetura, modelagem de dados
 
 ## Projetos e atuações em destaque
 
+### [Webhook Delivery Engine](https://github.com/gabrieldosprazeres/go-webhook-delivery) — case público em Go
+
+Case de engenharia backend voltado à entrega confiável de webhooks. O sistema trabalha com persistência durável, idempotência, entrega `at-least-once`, retries com backoff e jitter, dead-letter queue, replay auditável e processamento concorrente com `SKIP LOCKED`, leases e fencing tokens.
+
+Também inclui isolamento multi-tenant, assinatura HMAC, defesa contra SSRF, criptografia, contrato OpenAPI, testes de integração, race detector, CI/CD e observabilidade com OpenTelemetry, Prometheus, Tempo e Grafana.
+
+**Tecnologias:** Go, PostgreSQL, Docker, OpenAPI, OpenTelemetry, Prometheus, Tempo e Grafana.
+
+**Demonstração:** [vitrine pública](https://webhooks.gabrieldosprazeres.com.br) · [Swagger/OpenAPI](https://docs.webhooks.gabrieldosprazeres.com.br)
+
 ### AI Solution EXP Manager — projeto privado
 
 Plataforma desktop local-first para organizar engenharia de software assistida por agentes. Integra Claude Code e OpenAI Codex em fluxos estruturados com sessões, projetos, branches, Git worktrees, tarefas, contexto persistente, revisão de código, consumo de modelos e coordenação de múltiplos agentes.
@@ -41,17 +51,19 @@ Desenvolvimento e evolução de conectores para mais de 20 fontes de marketing e
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Aplicações:** TypeScript, React, Next.js, Node.js e Electron
-- **IA e backend:** LLMs, OpenAI/Codex, Anthropic/Claude Code, MCP, embeddings, Python, FastAPI e APIs REST
+- **IA e backend:** LLMs, OpenAI/Codex, Anthropic/Claude Code, MCP, embeddings, Python, FastAPI, Go em case aplicado e APIs REST
 - **Dados e infraestrutura:** PostgreSQL, Supabase, Prisma, Docker, AWS, Git worktrees e CI/CD
 
 ## Repositórios públicos
 
+- [go-webhook-delivery](https://github.com/gabrieldosprazeres/go-webhook-delivery) — engine de entrega confiável de webhooks em Go, com PostgreSQL, retries, fencing, HMAC, proteção contra SSRF e observabilidade.
 - [FinanceAI](https://github.com/gabrieldosprazeres/FinanceAI) — SaaS de gestão financeira com dashboard, assinaturas e relatórios personalizados por IA.
 - [ROAutomationToolkit](https://github.com/gabrieldosprazeres/ROAutomationToolkit) — toolkit em C# para automação de rotinas e experimentação técnica.
 - [pf1-vindication](https://github.com/gabrieldosprazeres/pf1-vindication) — módulo para Foundry VTT que adiciona recursos de Vindication às fichas do sistema Pathfinder 1e.
